@@ -18,7 +18,7 @@ function App() {
 
       <main>
         <section id="home" className="hero">
-          <img src="/jason.jpeg" alt="Jason Richards" className="profile-photo" />
+          <img src={`${import.meta.env.BASE_URL}jason.jpeg`} alt="Jason Richards" className="profile-photo" />
           <h2>Head of Digital Learning</h2>
           <p className="tagline">
             Award-Winning Team Builder | Learning Technology Leader | 10+ Years Transforming L&amp;D in Automotive
@@ -38,7 +38,7 @@ function App() {
             </div>
           </div>
           <div className="hero-actions">
-            <a href="/Jason_Richards_CV.docx" download className="btn btn-primary">Download CV</a>
+            <a href={`${import.meta.env.BASE_URL}Jason_Richards_CV.docx`} download className="btn btn-primary">Download CV</a>
             <a href="#contact" className="btn btn-secondary">Get in Touch</a>
           </div>
         </section>
