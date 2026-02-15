@@ -38,7 +38,7 @@ function App() {
             </div>
           </div>
           <div className="hero-actions">
-            <a href={`${import.meta.env.BASE_URL}Jason_Richards_CV.docx`} download className="btn btn-primary">Download CV</a>
+            <a href={`${import.meta.env.BASE_URL}Jason_Richards_CV.pdf`} download className="btn btn-primary">Download CV</a>
             <a href="#contact" className="btn btn-secondary">Get in Touch</a>
           </div>
         </section>
