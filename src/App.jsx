@@ -86,7 +86,7 @@ function App() {
             <div className="achievement-card">
               <span className="achievement-icon">&#9889;</span>
               <h3>100+ Videos in 12 Months</h3>
-              <p>Delivered business-critical content for Mercedes-Benz&rsquo;s franchise-to-agency model transition with just a 2-person team under tight deadlines.</p>
+              <p>Delivered business-critical content for Mercedes-Benz&rsquo;s franchise-to-agency model transition, growing the team from 2 to 5 people over the year.</p>
             </div>
             <div className="achievement-card">
               <span className="achievement-icon">&#9881;</span>
@@ -119,9 +119,10 @@ function App() {
               <h3>Digital Development Lead</h3>
               <p className="company">Calex UK for Mercedes-Benz</p>
               <p>
-                Built and scaled digital content production capability from a 2-person startup
-                to a 7-person high-performing team delivering 350+ projects annually. Led
-                business-critical agency model transition delivering 100+ videos in 12 months.
+                Built and scaled digital content production capability from a 2-person team
+                to a 7-person high-performing unit delivering 350+ projects annually. Led
+                business-critical agency model transition, growing the team from 2 to 5
+                while delivering 100+ videos in 12 months.
               </p>
             </div>
             <div className="timeline-item">
